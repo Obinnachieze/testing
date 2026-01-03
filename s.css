@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(226, 226, 226);
+}
+
+#container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 90vh;
+  font-family: poppins;
+}
+#wrapper {
+  border: 2px white solid;
+  border-radius: 15px;
+  border-width: 5px;
+}
+#sec1 {
+  background-color: #583cd6;
+}
